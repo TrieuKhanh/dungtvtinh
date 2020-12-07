@@ -1,0 +1,3 @@
+/home/pham/cpp/dungtvtinh/build/CMakeFiles/rebuild_cache.dir
+/home/pham/cpp/dungtvtinh/build/CMakeFiles/edit_cache.dir
+/home/pham/cpp/dungtvtinh/build/CMakeFiles/dungtvtinh.dir

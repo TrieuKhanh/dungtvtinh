@@ -1,0 +1,1 @@
+/usr/bin/c++   -fpie   -pie CMakeFiles/dungtvtinh.dir/main.cpp.o  -o dungtvtinh   -L/home/pham/cpp/dungtvtinh/../thuvienchung/thuvientinh  -Wl,-rpath,/home/pham/cpp/dungtvtinh/../thuvienchung/thuvientinh -lthuvientinh 
